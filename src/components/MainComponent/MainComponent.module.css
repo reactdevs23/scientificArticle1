@@ -97,6 +97,9 @@
 .findings .info {
   font-size: 16px;
 }
+.img {
+  max-width: 100%;
+}
 .subTitle {
   font-weight: 600;
 }
